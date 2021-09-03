@@ -14,6 +14,7 @@ python -m venv env
 # Hacer estos comandos de fijo porque se necesita estas librerias
 
 python -m pip install --upgrade pip
+
 python -m pip install flask
 
 # Ejecutar la API REST FLASK
