@@ -1,0 +1,14 @@
+Predecir el precio de un autom´ovil
+https://raw.githubusercontent.com/amankharwal/Website-data/master/car%20data.csv
+
+Predecir la tarifa de los viajes de bicicleta
+https://www.kaggle.com/c/chh-ola/data
+
+Predecir la cantidad de cr´ımenes por d´ıa en chicago
+https://www.kaggle.com/chicago/chicago-crime
+
+-- ----------------------------------------------------------------- --
+
+https://colab.research.google.com/drive/1-SCd4Xj2GLDN2JAgTxEnFU-4KKqZAdIt?usp=sharing
+
+-- ----------------------------------------------------------------- --
